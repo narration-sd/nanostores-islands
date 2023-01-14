@@ -13,8 +13,8 @@
   },
   "dependencies": {
     "@astrojs/solid-js": "^1.2.3",
-    "@astrojs/svelte": "2.0.0-beta.1",
-    "@astrojs/vue": "2.0.0-beta.1",
+    "@astrojs/svelte": "^2.0.0-beta.1",
+    "@astrojs/vue": "^2.0.0-beta.1",
     "@babel/core": "^7.20.12",
     "@nanostores/persistent": "^0.7.0",
     "@nanostores/solid": "^0.3.2",
